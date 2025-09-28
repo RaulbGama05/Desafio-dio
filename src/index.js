@@ -20,7 +20,7 @@ if (NiveldoHeroi < 1000) {
     nivel = `Radiante`
 }
 
-console.log("O Héroi de nome " + NomedoHeroi + "está no nível " + nivel);
+console.log("O Héroi de nome " + NomedoHeroi + " está no nível " + nivel);
     
 
 
